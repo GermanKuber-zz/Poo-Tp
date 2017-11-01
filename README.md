@@ -127,3 +127,11 @@ En la carpeta **Views/Home** reemplazamos el **Index.cshml** y lo remplazamos po
     </form>
 </div>
 ```
+
+### Ultimo preview
+
+Navegamos nuevamente a la url anterior y vamos a observar el siguiente sitio:
+
+```http://localhost:5000/```
+
+![alt text](https://github.com/GermanKuber/Poo-Tp/blob/master/Images/03.%20Preview%20Model.png?raw=true "")

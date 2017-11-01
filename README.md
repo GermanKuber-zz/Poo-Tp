@@ -4,7 +4,7 @@
  
 Descargar el Runtime en caso de solo correr la app, o el sdk en caso de querer desarrollar del siguiente link:
 
-https://www.microsoft.com/net/download/macos
+https://www.microsoft.com/net/download
 
 #### Crear nuevo proyecto
 
